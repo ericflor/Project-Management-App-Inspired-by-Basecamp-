@@ -1,3 +1,5 @@
+'Disable ESLint'
+
 const { environment } = require('@rails/webpacker')
 const vue =  require('./loaders/vue')
 
